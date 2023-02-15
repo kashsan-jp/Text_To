@@ -68,3 +68,11 @@ form button {
     cursor: pointer;
     background: #5256AD;
 }
+
+@media (max-width:768px) {
+
+    .wrapper {
+        width: 70%;
+    }
+
+}
